@@ -34,6 +34,7 @@ In this repositories, you'll find various projects I am working on, ranging from
     <img src="https://raw.githubusercontent.com/AntonioCampanale95/AntonioCampanale95/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
+
 ## 🎯 Future Goals
 
 My goal is to become a good **developer** with expertise in **cloud computing** and **artificial intelligence**, working on projects that can make a difference.

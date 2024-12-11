@@ -1,4 +1,8 @@
-# Hi, I'm Antonio Campanale! 👋
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=18FF5300&width=435&lines=Hi%2C+I'm+Antonio+Campanale+%F0%9F%91%8B" alt="Typing SVG"/>
+    </h1>
+</div>
 
 Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to became a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
 

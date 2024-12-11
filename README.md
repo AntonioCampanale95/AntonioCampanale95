@@ -49,4 +49,4 @@ If you'd like to learn more about me or are interested in collaborating on any p
 
 🔗 **Contact:**  
 📧 Email: campanale.antonio01@gmail.com  
-🔗 LinkedIn: [Antonio Campanale]([https://www.linkedin.com/in/antonio-campanale/])  
+🔗 LinkedIn: [Antonio Campanale](https://www.linkedin.com/in/antonio-campanale/)  

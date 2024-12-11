@@ -47,5 +47,7 @@ If you'd like to learn more about me or are interested in collaborating on any p
 ---
 
 🔗 **Contact:**  
-📧 Email: campanale.antonio01@gmail.com  
-🔗 LinkedIn: [Antonio Campanale](https://www.linkedin.com/in/antonio-campanale/)  
+## 🔗 Contact:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Antonio%20Campanale-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-campanale/)
+[![Email Badge](https://img.shields.io/badge/Email-campanale.antonio01%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:campanale.antonio01@gmail.com)
+

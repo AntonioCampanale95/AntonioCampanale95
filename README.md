@@ -34,7 +34,7 @@ In this repositories, you'll find various projects I am working on, ranging from
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AntonioCampanale95&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&langs_count=5" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCampanale95&layout=donut&theme=radical" width="48% height>="50%" " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCampanale95&layout=donut&theme=radical" width="48% height="50%" " />
 </div>
 
 

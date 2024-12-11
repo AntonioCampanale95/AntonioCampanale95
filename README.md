@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Antonio Campanale! 👋
 
-<!--
-**AntonioCampanale95/AntonioCampanale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to became a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily focus on **software development** and am always seeking new challenges to grow as a developer. I have experience programming in various languages and frameworks, and I love exploring new tools and technologies.
+
+### Technologies and languages I work with:
+
+- **Java**
+- **C#**
+- **Angular**
+- **Python**
+- **SQL**
+- **NoSQL**
+- ...and much more!
+
+I am passionate about **web development**, **software applications**, and **database management**. Every new project is an opportunity to learn something new and test my skills.
+
+## 🚀 Projects and Contributions
+
+In this repositories, you'll find various projects I am working on, ranging from backend to frontend, as well as experiments with new technologies. Every contribution is a step forward in my journey as a developer.
+
+## 🎯 Future Goals
+
+My goal is to become a good **developer** with expertise in **cloud computing** and **artificial intelligence**, working on projects that can make a difference.
+
+If you'd like to learn more about me or are interested in collaborating on any project, feel free to reach out!
+
+---
+
+🔗 **Contact:**  
+📧 Email: campanale.antonio01@gmail.com  
+🔗 LinkedIn: [Antonio Campanale]([https://www.linkedin.com/in/antonio-campanale/])  

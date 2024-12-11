@@ -7,7 +7,7 @@
 Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to became a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
 <div align="center">
     <p>
-        <img src="https%3A%2F%2Fgithub.com%2Ftanmoy119&psig=AOvVaw3iFe2wYZGuNfb2pgwn8jvN&ust=1734022876748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCYjuGYoIoDFQAAAAAdAAAAABAR" alt="Descriptive Text for the GIF" />
+        <img src="https://camo.githubusercontent.com/f5a18fd7c4884a6497111229848728058a712f0713d9032a65a90656972d16a7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 

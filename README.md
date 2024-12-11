@@ -32,14 +32,9 @@ I am passionate about **web development**, **software applications**, and **data
 In this repositories, you'll find various projects I am working on, ranging from backend to frontend, as well as experiments with new technologies. Every contribution is a step forward in my journey as a developer.
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <div style="height: 400px; width: 48%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AntonioCampanale95&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&langs_count=5" style="max-height: 100%; width: auto;" />
-    </div>
-    <div style="height: 400px; width: 48%; display: flex; align-items: center; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCampanale95&layout=donut&theme=radical" style="max-height: 100%; width: auto;" />
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AntonioCampanale95&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&langs_count=5" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCampanale95&layout=donut&theme=radical" width="48%" />
 </div>
-
 
 
 ## 🎯 Future Goals

@@ -45,5 +45,11 @@ If you'd like to learn more about me or are interested in collaborating on any p
 ---
 
 ## 🔗 Contact:
-(https://www.linkedin.com/in/antonio-campanale/) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-(mailto:campanale.antonio01@gmail.com) ![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div align="center">
+    <a href="https://www.linkedin.com/in/antonio-campanale/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:campanale.antonio01@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+</div>

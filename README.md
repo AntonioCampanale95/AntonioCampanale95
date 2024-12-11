@@ -30,6 +30,9 @@ I am passionate about **web development**, **software applications**, and **data
 ## 🚀 Projects and Contributions
 
 In this repositories, you'll find various projects I am working on, ranging from backend to frontend, as well as experiments with new technologies. Every contribution is a step forward in my journey as a developer.
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AntonioCampanale95/AntonioCampanale95/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ## 🎯 Future Goals
 

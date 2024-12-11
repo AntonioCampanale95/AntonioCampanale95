@@ -2,52 +2,46 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=18FF5300&width=435&lines=Hi%2C+I'm+Antonio+Campanale+%F0%9F%91%8B" alt="Typing SVG"/>
     </h1>
-</div>
 
-Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to become a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
-
-<div align="center">
+    Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to become a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
+    
     <p>
         <img src="https://camo.githubusercontent.com/f5a18fd7c4884a6497111229848728058a712f0713d9032a65a90656972d16a7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966" alt="Descriptive Text for the GIF" />
     </p>
-</div>
 
-## 👨‍💻 About Me
+    ## 👨‍💻 About Me
 
-I primarily focus on **software development** and am always seeking new challenges to grow as a developer. I have experience programming in various languages and frameworks, and I love exploring new tools and technologies.
+    I primarily focus on **software development** and am always seeking new challenges to grow as a developer. I have experience programming in various languages and frameworks, and I love exploring new tools and technologies.
 
-### Technologies and languages I work with:
+    ### Technologies and languages I work with:
 
-- **Java**
-- **C#**
-- **Angular**
-- **Python**
-- **SQL**
-- **NoSQL**
-- ...and much more!
+    - **Java**
+    - **C#**
+    - **Angular**
+    - **Python**
+    - **SQL**
+    - **NoSQL**
+    - ...and much more!
 
-I am passionate about **web development**, **software applications**, and **database management**. Every new project is an opportunity to learn something new and test my skills.
+    I am passionate about **web development**, **software applications**, and **database management**. Every new project is an opportunity to learn something new and test my skills.
 
-## 🚀 Projects and Contributions
+    ## 🚀 Projects and Contributions
 
-In this repository, you'll find various projects I am working on, ranging from backend to frontend, as well as experiments with new technologies. Every contribution is a step forward in my journey as a developer.
+    In this repository, you'll find various projects I am working on, ranging from backend to frontend, as well as experiments with new technologies. Every contribution is a step forward in my journey as a developer.
 
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AntonioCampanale95&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&langs_count=5" width="80%" />
-</div>
 
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCampanale95&layout=donut&theme=radical" width="80%" />
+    
+    ## 🎯 Future Goals
+
+    My goal is to become a proficient **developer** with expertise in **cloud computing** and **artificial intelligence**, working on projects that can make a difference.
+
+    If you'd like to learn more about me or are interested in collaborating on any project, feel free to reach out!
+
+    ---
+
+    🔗 **Contact:**  
+    📧 Email: campanale.antonio01@gmail.com  
+    🔗 LinkedIn: [Antonio Campanale](https://www.linkedin.com/in/antonio-campanale/)  
 </div>
-
-## 🎯 Future Goals
-
-My goal is to become a proficient **developer** with expertise in **cloud computing** and **artificial intelligence**, working on projects that can make a difference.
-
-If you'd like to learn more about me or are interested in collaborating on any project, feel free to reach out!
-
----
-
-🔗 **Contact:**  
-📧 Email: campanale.antonio01@gmail.com  
-🔗 LinkedIn: [Antonio Campanale](https://www.linkedin.com/in/antonio-campanale/)  

@@ -5,6 +5,11 @@
 </div>
 
 Welcome to my GitHub space! I'm a technology and programming enthusiast, currently pursuing both academic and professional training. I am studying to became a **Developer** at ITS Apulia Digital Maker and simultaneously pursuing a degree in **Computer Engineering** at Universitas Mercatorum.
+<div align="center">
+    <p>
+        <img src="https%3A%2F%2Fgithub.com%2Ftanmoy119&psig=AOvVaw3iFe2wYZGuNfb2pgwn8jvN&ust=1734022876748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCYjuGYoIoDFQAAAAAdAAAAABAR" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
 
 ## 👨‍💻 About Me
 

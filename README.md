@@ -54,6 +54,7 @@ If you'd like to learn more about me or are interested in collaborating on any p
     </a>
 </div>
 <div align="center">
-    <img src="https://rushter.com/counter.svg" alt="view counter" />
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=AntonioCampanale95&countColor=%237B1E7A" alt="Visitor Counter" />
 </div>
+
 

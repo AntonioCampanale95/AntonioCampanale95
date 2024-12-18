@@ -53,3 +53,6 @@ If you'd like to learn more about me or are interested in collaborating on any p
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
 </div>
+<div align="center">
+    ![image title](https://rushter.com/counter.svg)
+</div>

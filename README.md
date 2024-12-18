@@ -54,5 +54,6 @@ If you'd like to learn more about me or are interested in collaborating on any p
     </a>
 </div>
 <div align="center">
-    ![image title](https://rushter.com/counter.svg)
+    <img src="https://rushter.com/counter.svg" alt="view counter" />
 </div>
+
